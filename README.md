@@ -13,7 +13,7 @@ Idea 栈，存放还未实现的社区成员的 Ideas。
 
 Idea stack, which stores ideas from community members that have not yet been implemented.
 
-See full in [Discussion](https://github.com/orgs/NonceGeek/discussions/categories/dim-sum-ai-lab-desci)
+See full in [Discussion](https://github.com/orgs/NonceGeek/discussions/categories/dim-sum-ai-lab-desci).
 
 * Scaffold Yue App: 粤语应用开发脚手架
 * Yue AR: 面向粤语的增强现实应用
